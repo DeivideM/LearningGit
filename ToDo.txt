@@ -1,4 +1,4 @@
 Create a repository in GitHub
 Create a new folder locally and clone the repository
-
-Merging files
+Updating the file directly from GitHub
+Updating with a new version
