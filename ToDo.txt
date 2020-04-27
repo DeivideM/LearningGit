@@ -1,2 +1,3 @@
 Create a repository in GitHub
 Create a new folder locally and clone the repository
+Updating the file directly from GitHub
