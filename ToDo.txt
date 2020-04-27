@@ -1,2 +1,4 @@
 Create a repository in GitHub
 Create a new folder locally and clone the repository
+
+Merging files
